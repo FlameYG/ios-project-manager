@@ -15,7 +15,7 @@
 
 ## 👋 소개
 
-**PAD환경에서 사용 가능한 프로젝트 정보 관리 어플입니다. **
+**PAD환경에서 사용 가능한 프로젝트 정보 관리 어플입니다.**
 
 - 프로젝트 기간 : 22.01.09 ~ 23.01.27 (3주)
 
@@ -101,11 +101,11 @@
 
 ## 💻 실행 화면
 
-| ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.46.00](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.46.00.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.47.31](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.47.31.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.48.01](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.48.01.gif) |
+| ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15 46 00](https://user-images.githubusercontent.com/102534252/215029196-86be32b0-88ab-40ab-8e3f-bdb92d330934.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15 47 31](https://user-images.githubusercontent.com/102534252/215029271-46ba5102-fde3-4b42-bf0e-e4d9b04e1eef.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15 48 01](https://user-images.githubusercontent.com/102534252/215029281-acdf957c-fdf8-4c9f-b6ba-0c417c1c3d40.gif) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                      TODO에 데이터 저장                      |              TODO-DOING-DONE <br />데이터 이동               |                         데이터 삭제                          |
 
-| ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.49.18](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.49.18.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.50.25](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.50.25.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.51.14](/Users/yonggeunkim/Desktop/Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15.51.14.gif) |
+| ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15 49 18](https://user-images.githubusercontent.com/102534252/215029289-24ae5ea6-53f6-43fa-946e-940b6f732cb6.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 16 14 43](https://user-images.githubusercontent.com/102534252/215029632-4b14cab2-74a1-4291-924e-c73e53410a7f.gif) | ![Simulator Screen Recording - iPad Pro (11-inch) (4th generation) - 2023-01-27 at 15 51 14](https://user-images.githubusercontent.com/102534252/215029497-a870762d-0896-43a9-8b6d-a097edbe5a0a.gif) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                     Read모드 (편집불가)                      |                     Edit모드 (편집가능)                      |                    Create모드 (모드전환)                     |
 
